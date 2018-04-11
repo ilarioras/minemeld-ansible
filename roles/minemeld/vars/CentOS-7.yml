@@ -10,5 +10,10 @@ structure_packages:
   - libxslt-devel
   - c-ares-devel
   - snappy-devel
+  - wget
+  - python-pip
+  - python-devel
+  - libffi-devel
+  - openssl-devel
 
 distribution_post_task: CentOS-7-post
